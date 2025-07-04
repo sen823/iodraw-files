@@ -26,7 +26,7 @@
           <mxGeometry x="450" y="195" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-26" value="工厂版本转测发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="185" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="190" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-27" value="正式版本转测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="185" width="120" height="60" as="geometry" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-30" value="备料评估发起" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="280" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="270" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
