@@ -46,6 +46,9 @@
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-31" value="长周期物料备料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="270" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
