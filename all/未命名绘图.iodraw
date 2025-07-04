@@ -50,7 +50,10 @@
           <mxGeometry x="610" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-34" value="PCB回板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="770" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
