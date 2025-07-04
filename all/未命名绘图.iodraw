@@ -34,7 +34,7 @@
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-28" value="开始测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="185" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-29" value="原理图BOM输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
