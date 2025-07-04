@@ -19,8 +19,10 @@
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-1" value="立项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="310" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zGvW2XCXZGxdJ4ZzEnmB-3" target="zGvW2XCXZGxdJ4ZzEnmB-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zGvW2XCXZGxdJ4ZzEnmB-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-3" value="硬件启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="298" y="380" width="52" height="60" as="geometry" />
@@ -37,8 +39,10 @@
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-6" value="结构堆叠设计评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="190" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zGvW2XCXZGxdJ4ZzEnmB-8" target="zGvW2XCXZGxdJ4ZzEnmB-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zGvW2XCXZGxdJ4ZzEnmB-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zGvW2XCXZGxdJ4ZzEnmB-8" target="zGvW2XCXZGxdJ4ZzEnmB-20">
           <mxGeometry relative="1" as="geometry" />
@@ -46,14 +50,11 @@
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-8" value="结构细化评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="190" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zGvW2XCXZGxdJ4ZzEnmB-13" target="zGvW2XCXZGxdJ4ZzEnmB-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-13" value="原理草图输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="380" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-14" value="PCBlayout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="410" as="sourcePoint" />
+            <mxPoint x="610" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zGvW2XCXZGxdJ4ZzEnmB-20" target="zGvW2XCXZGxdJ4ZzEnmB-22">
           <mxGeometry relative="1" as="geometry" />
