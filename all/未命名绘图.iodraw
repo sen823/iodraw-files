@@ -52,6 +52,9 @@
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-14" value="PCBlayout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-20" value="打手板验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
