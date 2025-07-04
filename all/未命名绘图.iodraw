@@ -14,13 +14,13 @@
           <mxGeometry x="160" y="320" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-3" value="硬件启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="296" y="420" width="56" height="60" as="geometry" />
+          <mxGeometry x="300" y="420" width="52" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-4" value="ID设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="298" y="240" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-5" value="结构设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="298" y="320" width="54" height="60" as="geometry" />
+          <mxGeometry x="301" y="320" width="54" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
