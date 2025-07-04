@@ -55,7 +55,7 @@
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-35" value="PCBA回板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-36" value="单元测试报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
