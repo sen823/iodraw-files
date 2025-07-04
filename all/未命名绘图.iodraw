@@ -62,7 +62,13 @@
           <mxGeometry x="330" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-38" value="结构堆叠设计评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-39" value="结构细化评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGvW2XCXZGxdJ4ZzEnmB-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
