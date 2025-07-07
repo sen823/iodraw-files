@@ -14,18 +14,23 @@
           <mxGeometry width="740" height="710" as="geometry" />
         </mxCell>
         <mxCell id="mOE-qzCWpUvp3XDpWr_6-0" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="qPa3FnTF1NR_6q1K2P31-4" vertex="1">
-          <mxGeometry width="380" height="710" as="geometry">
+          <mxGeometry width="380" height="600" as="geometry">
             <mxRectangle x="20" y="60" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mOE-qzCWpUvp3XDpWr_6-0" source="mOE-qzCWpUvp3XDpWr_6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="609.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mOE-qzCWpUvp3XDpWr_6-1" value="产品经理" style="swimlane;startSize=20;" parent="mOE-qzCWpUvp3XDpWr_6-0" vertex="1">
-          <mxGeometry x="20" width="120" height="710" as="geometry" />
+          <mxGeometry x="20" width="120" height="600" as="geometry" />
         </mxCell>
         <mxCell id="mOE-qzCWpUvp3XDpWr_6-2" value="ID设计" style="swimlane;startSize=20;" parent="mOE-qzCWpUvp3XDpWr_6-0" vertex="1">
-          <mxGeometry x="140" width="120" height="710" as="geometry" />
+          <mxGeometry x="140" width="120" height="600" as="geometry" />
         </mxCell>
         <mxCell id="mOE-qzCWpUvp3XDpWr_6-3" value="结构" style="swimlane;startSize=20;" parent="mOE-qzCWpUvp3XDpWr_6-0" vertex="1">
-          <mxGeometry x="260" width="120" height="710" as="geometry" />
+          <mxGeometry x="260" width="120" height="600" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-1" value="硬件" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-4">
           <mxGeometry x="380" width="120" height="600" as="geometry" />
