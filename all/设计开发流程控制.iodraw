@@ -27,7 +27,7 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-2" value="NPI" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-4">
           <mxGeometry x="500" width="120" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-3" value="NPI" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-4">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-3" value="供应商" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-4">
           <mxGeometry x="620" width="120" height="600" as="geometry" />
         </mxCell>
       </root>
