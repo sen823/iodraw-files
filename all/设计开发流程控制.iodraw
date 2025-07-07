@@ -54,9 +54,6 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-6" value="产品认证" style="swimlane;startSize=20;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-7">
           <mxGeometry x="930.4918032786886" width="129.8360655737705" height="1166.1971830985915" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-8" value="结构包装" style="swimlane;startSize=20;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-10">
-          <mxGeometry x="1060.327868852459" width="129.8360655737705" height="1166.1971830985915" as="geometry" />
-        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-9" value="供应商" style="swimlane;startSize=20;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-10">
           <mxGeometry x="1190.1639344262296" width="129.8360655737705" height="1166.1971830985915" as="geometry" />
         </mxCell>
