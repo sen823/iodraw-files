@@ -36,8 +36,11 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-5" value="软件开发" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-7">
           <mxGeometry x="740" width="120" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-6" value="供应商" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-7">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-6" value="软件测试" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-7">
           <mxGeometry x="860" width="120" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-8" value="软件测试" style="swimlane;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="70" width="120" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
