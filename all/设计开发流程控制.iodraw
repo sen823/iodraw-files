@@ -42,6 +42,9 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-8" value="产品认证" style="swimlane;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="60" width="120" height="600" as="geometry" />
         </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-9" value="产品认证" style="swimlane;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="70" width="120" height="600" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
