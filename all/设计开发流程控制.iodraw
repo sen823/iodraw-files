@@ -4,8 +4,11 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-7" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-160" y="60" width="980" height="600" as="geometry" />
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-10" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="60" width="1220" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-7" value="" style="group" vertex="1" connectable="0" parent="qPa3FnTF1NR_6q1K2P31-10">
+          <mxGeometry width="980" height="600" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-4" value="" style="group" vertex="1" connectable="0" parent="qPa3FnTF1NR_6q1K2P31-7">
           <mxGeometry width="740" height="600" as="geometry" />
@@ -39,11 +42,11 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-6" value="软件测试" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-7">
           <mxGeometry x="860" width="120" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-8" value="产品认证" style="swimlane;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="60" width="120" height="600" as="geometry" />
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-8" value="产品认证" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-10">
+          <mxGeometry x="980" width="120" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-9" value="包装" style="swimlane;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="60" width="120" height="600" as="geometry" />
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-9" value="包装" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-10">
+          <mxGeometry x="1100" width="120" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
