@@ -10,9 +10,6 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-27" value="产品经理" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="120" y="59.375" width="120" height="890.625" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-41" value="产品概念" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-27">
-          <mxGeometry x="10" y="50.625" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-28" value="ID设计" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="240" y="59.375" width="120" height="890.625" as="geometry" />
         </mxCell>
@@ -36,14 +33,6 @@
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-35" value="项目经理" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry y="59.38" width="160" height="890.63" as="geometry" />
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="qPa3FnTF1NR_6q1K2P31-35" source="qPa3FnTF1NR_6q1K2P31-42">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="220.62" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-42" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-35">
-          <mxGeometry x="60" y="170.62" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-36" value="包装" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="1079.9999999999998" y="59.375" width="120" height="890.625" as="geometry" />
