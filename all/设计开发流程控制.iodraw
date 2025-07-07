@@ -4,8 +4,11 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="mOE-qzCWpUvp3XDpWr_6-0" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="60" width="380" height="600" as="geometry">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-4" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="60" width="740" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="mOE-qzCWpUvp3XDpWr_6-0" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="qPa3FnTF1NR_6q1K2P31-4" vertex="1">
+          <mxGeometry width="380" height="600" as="geometry">
             <mxRectangle x="20" y="60" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -18,14 +21,14 @@
         <mxCell id="mOE-qzCWpUvp3XDpWr_6-3" value="结构" style="swimlane;startSize=20;" parent="mOE-qzCWpUvp3XDpWr_6-0" vertex="1">
           <mxGeometry x="260" width="120" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-1" value="硬件" style="swimlane;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="60" width="120" height="600" as="geometry" />
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-1" value="硬件" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-4">
+          <mxGeometry x="380" width="120" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-2" value="NPI" style="swimlane;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="60" width="120" height="600" as="geometry" />
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-2" value="NPI" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-4">
+          <mxGeometry x="500" width="120" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-3" value="NPI" style="swimlane;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="60" width="120" height="600" as="geometry" />
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-3" value="NPI" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-4">
+          <mxGeometry x="620" width="120" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
