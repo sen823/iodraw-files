@@ -34,9 +34,6 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-35" value="项目经理" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry y="59.37500000000001" width="100" height="890.6250000000001" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-35">
-          <mxGeometry y="50.625" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-36" value="包装" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="875.4545454545454" y="59.37500000000001" width="97.27272727272728" height="890.6250000000001" as="geometry" />
         </mxCell>
