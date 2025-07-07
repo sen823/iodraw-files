@@ -16,6 +16,9 @@
         <mxCell id="mOE-qzCWpUvp3XDpWr_6-3" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="mOE-qzCWpUvp3XDpWr_6-0">
           <mxGeometry x="260" width="120" height="480" as="geometry" />
         </mxCell>
+        <mxCell id="mOE-qzCWpUvp3XDpWr_6-4" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="180" width="120" height="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
