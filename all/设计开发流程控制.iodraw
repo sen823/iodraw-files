@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="qPa3FnTF1NR_6q1K2P31-12" value="项目研发流程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=default;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-220" y="-80" width="1320" height="60" as="geometry" />
+          <mxGeometry x="-229.84" y="-70" width="1320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-10" value="" style="group;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-229.84" y="-10" width="1339.6721311475412" height="1380" as="geometry" />
@@ -39,6 +39,9 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-25" value="结构" style="swimlane;startSize=20;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-4">
           <mxGeometry x="279.68" width="129.8360655737705" height="1206.2" as="geometry" />
         </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-26" value="结构" style="swimlane;startSize=20;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-4">
+          <mxGeometry x="1059.84" width="129.8360655737705" height="1206.2" as="geometry" />
+        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-5" value="软件测试" style="swimlane;startSize=20;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-7">
           <mxGeometry x="800.6557377049181" width="129.8360655737705" height="1166.1971830985915" as="geometry" />
         </mxCell>
@@ -47,9 +50,6 @@
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-9" value="供应商" style="swimlane;startSize=20;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-10">
           <mxGeometry x="1190.1639344262296" width="129.8360655737705" height="1166.1971830985915" as="geometry" />
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1025" y="268" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
