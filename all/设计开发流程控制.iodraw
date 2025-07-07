@@ -30,6 +30,9 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-3" value="供应商" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-4">
           <mxGeometry x="620" width="120" height="600" as="geometry" />
         </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-5" value="供应商" style="swimlane;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="70" width="120" height="600" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
