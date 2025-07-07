@@ -48,7 +48,7 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-9" value="包装" style="swimlane;startSize=20;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-10">
           <mxGeometry x="1190.1639344262296" width="129.8360655737705" height="1166.1971830985915" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-12" value="项目研发流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-12" value="项目研发流程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-260" width="1320" height="60" as="geometry" />
         </mxCell>
       </root>
