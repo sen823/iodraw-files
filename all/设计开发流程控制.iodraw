@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="qPa3FnTF1NR_6q1K2P31-10" value="" style="group;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-300" width="1320" height="1380" as="geometry" />
+          <mxGeometry x="-310" y="50" width="1320" height="1380" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-7" value="" style="group;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="qPa3FnTF1NR_6q1K2P31-10">
           <mxGeometry width="1080" height="1379.9999999999995" as="geometry" />
@@ -59,6 +59,9 @@
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-12" value="项目研发流程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=default;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-220" y="-80" width="1320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-19" value="硬件" style="swimlane;startSize=20;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="111.14754098360658" y="60" width="129.8360655737705" height="1166.1971830985915" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
