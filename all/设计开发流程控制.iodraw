@@ -112,11 +112,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910" y="570" as="sourcePoint" />
             <mxPoint x="1010" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-93" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" connectable="0" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-92">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="86" y="113" as="offset" />
+            <Array as="points">
+              <mxPoint x="870" y="610" />
+              <mxPoint x="945" y="725" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
