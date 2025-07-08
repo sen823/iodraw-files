@@ -189,6 +189,14 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-144" target="qPa3FnTF1NR_6q1K2P31-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-144" target="qPa3FnTF1NR_6q1K2P31-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-153" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="qPa3FnTF1NR_6q1K2P31-152">
+          <mxGeometry x="-0.0825" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-144" value="投PCB" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="525" y="1760" width="110" height="40" as="geometry" />
         </mxCell>
