@@ -43,15 +43,6 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-38" value="项目研发流程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;fontSize=22;fontStyle=1" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry width="1320" height="59.375" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.549;entryY=-0.072;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-44" target="qPa3FnTF1NR_6q1K2P31-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="225" y="270" />
-              <mxPoint x="690" y="270" />
-              <mxPoint x="690" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-44" value="产品概念" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="190" width="90" height="50" as="geometry" />
         </mxCell>
@@ -74,6 +65,9 @@
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-55" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-44" target="qPa3FnTF1NR_6q1K2P31-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
