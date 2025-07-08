@@ -32,19 +32,13 @@
           <mxGeometry x="599.9999999999999" y="155.12336712245127" width="510.0000000000001" height="2326.850506836771" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-62" value="确定ID/结构投入人员" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-33">
-          <mxGeometry x="-59.999999999999886" y="264.87663287754873" width="210" height="46" as="geometry" />
+          <mxGeometry x="-49.999999999999886" y="264.87663287754873" width="210" height="46" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-78" value="产品规格文档确定" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;strokeWidth=2;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-33">
           <mxGeometry x="-59.999999999999886" y="379.87663287754873" width="205" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="qPa3FnTF1NR_6q1K2P31-33" source="qPa3FnTF1NR_6q1K2P31-62" target="qPa3FnTF1NR_6q1K2P31-78">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-72" value="立项评审" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-33">
           <mxGeometry x="-529.9999999999999" y="524.8766328775487" width="1040" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="qPa3FnTF1NR_6q1K2P31-33" source="qPa3FnTF1NR_6q1K2P31-78" target="qPa3FnTF1NR_6q1K2P31-72">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-34" value="硬件" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="480" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
