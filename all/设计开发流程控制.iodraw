@@ -117,6 +117,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-94" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="qPa3FnTF1NR_6q1K2P31-92">
+          <mxGeometry x="-0.4759" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
