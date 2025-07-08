@@ -22,6 +22,9 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-30" value="软件测试" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="840" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
         </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-87" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-30">
+          <mxGeometry x="20" y="244.87663287754873" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-31" value="软件开发" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="719.9999999999999" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
         </mxCell>
@@ -94,9 +97,6 @@
           <mxGeometry x="597.5" y="700" width="205" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-78" target="qPa3FnTF1NR_6q1K2P31-72">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-55" target="qPa3FnTF1NR_6q1K2P31-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
