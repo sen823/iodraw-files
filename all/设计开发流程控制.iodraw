@@ -26,7 +26,10 @@
           <mxGeometry x="359.99999999999994" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-33" value="NPI" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
-          <mxGeometry x="599.9999999999999" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
+          <mxGeometry x="599.9999999999999" y="155.12336712245127" width="510.0000000000001" height="2326.850506836771" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-45" value="产品需求评审" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-33">
+          <mxGeometry x="-529.9999999999999" y="154.87663287754873" width="1040" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-34" value="硬件" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="480" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
@@ -53,9 +56,6 @@
               <mxPoint x="700" y="370" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-45" value="产品需求评审" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="300" width="1040" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-50" value="注意事项" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="180" width="140" height="52" as="geometry" />
