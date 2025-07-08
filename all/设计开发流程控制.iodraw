@@ -55,13 +55,8 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-38" value="项目研发流程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;fontSize=22;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry y="95.75" width="1320" height="59.375" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-45" target="qPa3FnTF1NR_6q1K2P31-62">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="700" y="380" />
-              <mxPoint x="695" y="380" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-45" target="qPa3FnTF1NR_6q1K2P31-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-45" value="产品需求评审（ID设计评审）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="300" width="1040" height="40" as="geometry" />
