@@ -8,10 +8,10 @@
           <mxGeometry x="60" y="-10" width="1320" height="2482" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-27" value="产品经理" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
-          <mxGeometry x="120" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
+          <mxGeometry x="120" y="155.15336712245127" width="120" height="2326.850506836771" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-44" value="产品概念" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-27">
-          <mxGeometry x="10" y="48.87663287754873" width="90" height="50" as="geometry" />
+          <mxGeometry x="15" y="48.84663287754873" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-28" value="ID设计" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="240" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-78" target="qPa3FnTF1NR_6q1K2P31-72">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-83" value="" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="630" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
