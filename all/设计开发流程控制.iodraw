@@ -31,7 +31,7 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-33" value="NPI" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="599.9999999999999" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-34" value="硬件" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-34" value="硬件" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="480" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-35" value="项目经理" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
