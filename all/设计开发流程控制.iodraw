@@ -72,16 +72,6 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-62" value="确定ID/结构投入" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="595" y="561" width="210" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-67" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="570" as="sourcePoint" />
-            <mxPoint x="560" y="520" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="560" y="570" />
-              <mxPoint x="510" y="520" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
