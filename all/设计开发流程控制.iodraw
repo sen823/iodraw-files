@@ -4,8 +4,17 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-50" value="注意事项" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="180" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-51" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#393C56;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-50">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-77" value="确认ID/结构的人员时间再进行下一步" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="555" width="140" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-39" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" width="1320" height="2482" as="geometry" />
+          <mxGeometry x="40" y="20" width="1320" height="2482" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-27" value="产品经理" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="120" y="155.15336712245127" width="120" height="2326.850506836771" as="geometry" />
@@ -38,7 +47,7 @@
           <mxGeometry x="599.9999999999999" y="155.12336712245127" width="510.0000000000001" height="2326.850506836771" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-62" value="确定ID/结构投入人员" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-33">
-          <mxGeometry x="-49.999999999999886" y="264.87663287754873" width="210" height="46" as="geometry" />
+          <mxGeometry x="-52.499999999999886" y="254.87663287754873" width="210" height="46" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-78" value="产品规格文档确定" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;strokeWidth=2;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-33">
           <mxGeometry x="-47.499999999999886" y="379.87663287754873" width="205" height="50" as="geometry" />
@@ -60,23 +69,6 @@
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="qPa3FnTF1NR_6q1K2P31-39" source="qPa3FnTF1NR_6q1K2P31-44" target="qPa3FnTF1NR_6q1K2P31-45">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="qPa3FnTF1NR_6q1K2P31-39" source="qPa3FnTF1NR_6q1K2P31-45" target="qPa3FnTF1NR_6q1K2P31-62">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="655" y="360" />
-              <mxPoint x="655" y="360" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-50" value="注意事项" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-100" y="180" width="140" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-51" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#393C56;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-50">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-77" value="确认ID/结构的人员时间再进行下一步" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-100" y="555" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
