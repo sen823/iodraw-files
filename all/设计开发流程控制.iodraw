@@ -146,7 +146,7 @@
             <mxPoint x="335" y="1580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-133" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="qPa3FnTF1NR_6q1K2P31-132">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-133" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="qPa3FnTF1NR_6q1K2P31-132">
           <mxGeometry x="-0.0726" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -156,6 +156,9 @@
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-130" value="DXF输出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="1580" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-134" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="1490" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
