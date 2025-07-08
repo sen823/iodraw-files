@@ -117,8 +117,11 @@
             <mxPoint x="740" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-119" value="ID方案设计" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-119" value="3D建模设计" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="980" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-120" value="3D建模设计" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="185" y="990" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
