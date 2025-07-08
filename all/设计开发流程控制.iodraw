@@ -276,8 +276,8 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-176" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="895" y="148" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-179" value="测试完成发布" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="895" y="2460" width="85" height="40" as="geometry" />
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-179" value="测试完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="900" y="2400" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-181" value="测试完成发布" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="895" y="2850" width="85" height="40" as="geometry" />
