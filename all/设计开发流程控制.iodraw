@@ -148,8 +148,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="1540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="1520" />
-              <mxPoint x="469" y="1560" />
+              <mxPoint x="462" y="1520" />
+              <mxPoint x="460" y="1520" />
+              <mxPoint x="460" y="1560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,7 +163,7 @@
           <mxGeometry x="80" y="1410" width="510" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-130" value="DXF输出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="407.25" y="1560" width="110" height="40" as="geometry" />
+          <mxGeometry x="414" y="1570" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-134" value="原题图BOM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="1360" width="90" height="40" as="geometry" />
