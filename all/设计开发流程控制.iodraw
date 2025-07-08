@@ -99,29 +99,6 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-78" target="qPa3FnTF1NR_6q1K2P31-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-89" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-55" target="qPa3FnTF1NR_6q1K2P31-87">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="450" as="sourcePoint" />
-            <mxPoint x="880" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-90" value="是" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" connectable="0" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-89">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-92" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-87" target="qPa3FnTF1NR_6q1K2P31-78">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="570" as="sourcePoint" />
-            <mxPoint x="1010" y="570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="945" y="725" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-94" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="qPa3FnTF1NR_6q1K2P31-92">
-          <mxGeometry x="-0.4759" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
