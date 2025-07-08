@@ -26,7 +26,7 @@
           <mxGeometry x="719.9999999999999" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-32" value="结构" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
-          <mxGeometry x="359.99999999999994" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
+          <mxGeometry x="359.99999999999994" y="155.12336712245127" width="140.00000000000006" height="2326.850506836771" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-33" value="NPI" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;" vertex="1" parent="qPa3FnTF1NR_6q1K2P31-39">
           <mxGeometry x="599.9999999999999" y="155.12336712245127" width="120" height="2326.850506836771" as="geometry" />
@@ -95,9 +95,6 @@
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-78" target="qPa3FnTF1NR_6q1K2P31-72">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-83" value="" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="630" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
