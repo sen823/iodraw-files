@@ -308,9 +308,6 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-174" value="正式版本" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="772.5" y="3420" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-176" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="895" y="148" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EE60j2m0mlwF6RyD-ga8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-179" target="_uzV0fszj0NWBT6MYVDJ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
