@@ -249,6 +249,9 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-160" target="qPa3FnTF1NR_6q1K2P31-185" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EE60j2m0mlwF6RyD-ga8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-160" target="qPa3FnTF1NR_6q1K2P31-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-160" value="裸板调试完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="535" y="2170" width="90" height="50" as="geometry" />
         </mxCell>
