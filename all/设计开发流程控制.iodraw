@@ -86,7 +86,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-98" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#393C56;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.559;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-45" target="qPa3FnTF1NR_6q1K2P31-62" edge="1">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-98" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#393C56;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.559;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-45" target="qPa3FnTF1NR_6q1K2P31-62" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="420" as="sourcePoint" />
             <mxPoint x="720" y="370" as="targetPoint" />
