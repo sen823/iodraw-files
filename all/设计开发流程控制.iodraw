@@ -443,11 +443,17 @@
         <mxCell id="EE60j2m0mlwF6RyD-ga8-35" value="小批PCB贴片" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="2840" width="100" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="EE60j2m0mlwF6RyD-ga8-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EE60j2m0mlwF6RyD-ga8-40" target="EE60j2m0mlwF6RyD-ga8-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EE60j2m0mlwF6RyD-ga8-40" value="小批物料到齐" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="2990" width="100" height="47" as="geometry" />
         </mxCell>
         <mxCell id="EE60j2m0mlwF6RyD-ga8-47" value="小批机器入库" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="3120" width="100" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="EE60j2m0mlwF6RyD-ga8-49" value="小批机器入库" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="3130" width="100" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
