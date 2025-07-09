@@ -357,7 +357,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_uzV0fszj0NWBT6MYVDJ-8" value="是否审核通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="2873" width="100" height="60" as="geometry" />
+          <mxGeometry x="160" y="2930" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_uzV0fszj0NWBT6MYVDJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-181" target="_uzV0fszj0NWBT6MYVDJ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -407,7 +407,7 @@
         <mxCell id="EE60j2m0mlwF6RyD-ga8-13" value="包装BOM汇总完成" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="2873" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EE60j2m0mlwF6RyD-ga8-28" value="小批备料准备" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EE60j2m0mlwF6RyD-ga8-28" value="小批备料发起" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="2300" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
