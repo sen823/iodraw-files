@@ -428,11 +428,11 @@
         <mxCell id="EE60j2m0mlwF6RyD-ga8-12" value="包装平面完成" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1140" y="2770" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B-7QRAcaBVMn0HFk_ryC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EE60j2m0mlwF6RyD-ga8-13" target="EE60j2m0mlwF6RyD-ga8-40">
+        <mxCell id="B-7QRAcaBVMn0HFk_ryC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EE60j2m0mlwF6RyD-ga8-13" target="EE60j2m0mlwF6RyD-ga8-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EE60j2m0mlwF6RyD-ga8-13" value="包装BOM汇总完成" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1140" y="2873" width="85" height="40" as="geometry" />
+          <mxGeometry x="1140" y="2993.5" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EE60j2m0mlwF6RyD-ga8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EE60j2m0mlwF6RyD-ga8-28" target="EE60j2m0mlwF6RyD-ga8-40" edge="1">
           <mxGeometry relative="1" as="geometry">
