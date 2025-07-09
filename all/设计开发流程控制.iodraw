@@ -354,8 +354,8 @@
         <mxCell id="EE60j2m0mlwF6RyD-ga8-0" value="投模时间务必要确认一下是否存在额外的开模时间比如尾线等小细节。来确定回模的时间" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="1695" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="EE60j2m0mlwF6RyD-ga8-7" value="测试完成" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="2410" width="85" height="40" as="geometry" />
+        <mxCell id="EE60j2m0mlwF6RyD-ga8-7" value="包装BOM启动" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="2370" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
