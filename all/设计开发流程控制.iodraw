@@ -299,7 +299,7 @@
           <mxGeometry x="897.5" y="2450" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-181" value="测试完成" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="895" y="2780" width="85" height="40" as="geometry" />
+          <mxGeometry x="910" y="2820" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-183" target="qPa3FnTF1NR_6q1K2P31-185" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -352,7 +352,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_uzV0fszj0NWBT6MYVDJ-8" value="是否审核通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="2850" width="100" height="60" as="geometry" />
+          <mxGeometry x="50" y="2863" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_uzV0fszj0NWBT6MYVDJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-181" target="_uzV0fszj0NWBT6MYVDJ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -401,6 +401,9 @@
         </mxCell>
         <mxCell id="EE60j2m0mlwF6RyD-ga8-13" value="包装BOM汇总完成" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="2940" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EE60j2m0mlwF6RyD-ga8-26" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="2220" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
