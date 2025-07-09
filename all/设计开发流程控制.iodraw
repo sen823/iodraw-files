@@ -539,6 +539,9 @@
         <mxCell id="B-7QRAcaBVMn0HFk_ryC-7" value="烧录UID" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1360" y="3603.5" width="140" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="B-7QRAcaBVMn0HFk_ryC-8" value="是否需要调图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
