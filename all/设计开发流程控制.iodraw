@@ -13,7 +13,7 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-44" value="产品概念" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="qPa3FnTF1NR_6q1K2P31-27" vertex="1">
           <mxGeometry x="15" y="82.85" width="85" height="47.15" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-28" value="ID设计" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;gradientColor=default;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-28" value="ID设计" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;gradientColor=none;swimlaneFillColor=default;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
           <mxGeometry x="240" y="263.1222302923128" width="120" height="3946.833454384691" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-29" value="产品认证" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
