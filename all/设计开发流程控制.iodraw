@@ -467,8 +467,8 @@
         <mxCell id="EE60j2m0mlwF6RyD-ga8-52" value="批量备料发起" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="3197" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EE60j2m0mlwF6RyD-ga8-54" value="批量备料发起" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="3207" width="90" height="50" as="geometry" />
+        <mxCell id="EE60j2m0mlwF6RyD-ga8-54" value="批量贴片" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="3370" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EE60j2m0mlwF6RyD-ga8-55" value="批量备料发起" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="317.25" y="3340" width="90" height="50" as="geometry" />
