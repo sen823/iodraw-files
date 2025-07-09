@@ -117,6 +117,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="B-7QRAcaBVMn0HFk_ryC-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="B-7QRAcaBVMn0HFk_ryC-3">
+          <mxGeometry x="-0.5469" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-108" value="是否硬件修改" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;rounded=0;gradientColor=#ffd966;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="878.75" y="980" width="112.5" height="100" as="geometry" />
         </mxCell>
