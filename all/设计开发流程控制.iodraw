@@ -555,8 +555,8 @@
         <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-3" value="看项目大小，结构堆叠这里一般会有两次或1次评审，需要拉通工厂经理NPI等，按照装配顺序，关注一下基本问题防水，点胶，装配度，信号干扰的程度全面的评价，放置后续出现开完会还存在不确定的情况导致返工" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="1230" width="140" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-4" value="看项目大小，结构堆叠这里一般会有两次或1次评审，需要拉通工厂经理NPI等，按照装配顺序，关注一下基本问题防水，点胶，装配度，信号干扰的程度全面的评价，放置后续出现开完会还存在不确定的情况导致返工" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-90" y="1240" width="140" height="165" as="geometry" />
+        <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-4" value="堆叠差不多时及时要发起项目报价，选定供应商，这个是可以同步进行的" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="1400" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
