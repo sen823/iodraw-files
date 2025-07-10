@@ -553,7 +553,7 @@
           <mxGeometry x="-100" y="585" width="140" height="95" as="geometry" />
         </mxCell>
         <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-3" value="这里一般产品规格并没有完全确定下来，需要及时跟进产品经理的相关规格定稿，否则硬件无法开始，ID设计存在问题。" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-90" y="595" width="140" height="95" as="geometry" />
+          <mxGeometry x="-100" y="1255" width="140" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
