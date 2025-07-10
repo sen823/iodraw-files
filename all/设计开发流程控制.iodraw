@@ -22,7 +22,7 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-30" value="软件测试" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;swimlaneFillColor=default;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
           <mxGeometry x="840" y="263.1222302923128" width="120" height="3946.833454384691" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-31" value="软件开发" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;rounded=0;swimlaneFillColor=default;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-31" value="软件开发" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;rounded=0;swimlaneFillColor=default;swimlaneLine=0;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
           <mxGeometry x="719.9999999999999" y="263.1222302923128" width="120" height="3946.833454384691" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-32" value="结构" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;swimlaneFillColor=default;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
