@@ -7,13 +7,13 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-39" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;opacity=20;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="40" y="-180" width="1320" height="4210" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-27" value="产品经理" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;rounded=0;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-27" value="产品经理" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;rounded=0;swimlaneFillColor=default;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
           <mxGeometry x="120" y="263.17311667426276" width="120" height="3946.833454384691" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-44" value="产品概念" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;" parent="qPa3FnTF1NR_6q1K2P31-27" vertex="1">
           <mxGeometry x="15" y="82.85" width="85" height="47.15" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-28" value="ID设计" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;gradientColor=none;swimlaneFillColor=none;rounded=0;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-28" value="ID设计" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;gradientColor=none;swimlaneFillColor=default;rounded=0;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
           <mxGeometry x="240" y="263.1222302923128" width="120" height="3946.833454384691" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-29" value="产品认证" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-34" value="硬件" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
           <mxGeometry x="480" y="263.1222302923128" width="120" height="3946.833454384691" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-35" value="项目经理" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-35" value="项目经理" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;swimlaneFillColor=default;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
           <mxGeometry y="263.1443879538107" width="120" height="3946.855612046187" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-36" value="包装" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
