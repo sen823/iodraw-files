@@ -22,7 +22,7 @@
         <mxCell id="qPa3FnTF1NR_6q1K2P31-30" value="软件测试" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;swimlaneFillColor=default;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
           <mxGeometry x="840" y="263.1222302923128" width="120" height="3946.833454384691" as="geometry" />
         </mxCell>
-        <mxCell id="qPa3FnTF1NR_6q1K2P31-31" value="软件开发" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;rounded=0;swimlaneFillColor=default;swimlaneLine=0;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
+        <mxCell id="qPa3FnTF1NR_6q1K2P31-31" value="软件开发" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startSize=23;rounded=0;swimlaneFillColor=default;swimlaneLine=1;shadow=0;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
           <mxGeometry x="719.9999999999999" y="263.1222302923128" width="120" height="3946.833454384691" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-32" value="结构" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;swimlaneFillColor=default;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-38" value="项目研发流程" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;fontSize=22;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="qPa3FnTF1NR_6q1K2P31-39" vertex="1">
           <mxGeometry y="162.4123690572117" width="1320" height="100.7126309427881" as="geometry" />
+        </mxCell>
+        <mxCell id="j3duX2XmTaPI91PAXvgt-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qPa3FnTF1NR_6q1K2P31-39" source="qPa3FnTF1NR_6q1K2P31-44" target="qPa3FnTF1NR_6q1K2P31-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qPa3FnTF1NR_6q1K2P31-45" value="产品需求评审（ID设计评审）" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="300" width="1040" height="40" as="geometry" />
