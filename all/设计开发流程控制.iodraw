@@ -570,8 +570,8 @@
         <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-7" value="装机要发起装机表，提前确定好装机的串口数量，整机数量以及是否有接网口的机器，会导致" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="2303" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-8" value="BOM上传流程是，先建立裸机BOM ,与硬件确认无误后再进行BOM上产上系统，之后进行PCBA 的贴片，PCBA贴完后记得我贴好后上传系统确认该流程我觉得可以降平时的绩效拆分程项目的完成程度我再的部位他reolinkd的智能家居行业" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-110" y="2690" width="150" height="190" as="geometry" />
+        <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-8" value="BOM上传流程是，先建立裸机BOM ,与硬件确认无误后再进行BOM上产上系统，之后进行PCBA 的贴片，PCBA贴完后记得我" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="2690" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
