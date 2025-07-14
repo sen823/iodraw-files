@@ -573,8 +573,8 @@
         <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-8" value="BOM上传流程是，先建立裸机BOM ,与硬件确认无误后再进行BOM上产上系统，之后进行PCBA 的贴片。" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="2690" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xXmUPdc5YcS9Zif-ChsP-0" value="务必确认主板和通讯板一起发起贴片，按照装机数量来定。确认有无长周期备料如:电池等一起发起" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1370" y="1750" width="150" height="80" as="geometry" />
+        <mxCell id="xXmUPdc5YcS9Zif-ChsP-0" value="工厂版本转测是需要对策略的，策略调整后预估测试完成时间。" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1360" y="2480" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
