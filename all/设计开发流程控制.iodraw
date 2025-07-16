@@ -538,7 +538,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B-7QRAcaBVMn0HFk_ryC-7" value="烧录UID" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1360" y="3287" width="140" height="20" as="geometry" />
+          <mxGeometry x="1357.5" y="3147" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B-7QRAcaBVMn0HFk_ryC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPa3FnTF1NR_6q1K2P31-158" target="B-7QRAcaBVMn0HFk_ryC-8" edge="1">
           <mxGeometry relative="1" as="geometry">
