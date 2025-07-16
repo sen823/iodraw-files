@@ -559,11 +559,11 @@
         <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-4" value="堆叠差不多时及时要发起项目报价，选定供应商，这个是可以同步进行的" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="1400" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-5" value="影响后续的推进 关键路径需要注意" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-5" value="影响后续的推进 关键路径需要注意，发起报价至少两次，回设计初步和堆叠" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1360" y="1300" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-6" value="确认是否存在换平台的风险，换平台需要注意时间会过长。询问是否需要调图，看后续安排" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1365" y="1550" width="150" height="80" as="geometry" />
+          <mxGeometry x="1360" y="1550" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2Rlx5hz3Pb9W2qn1iH4x-7" value="装机要发起装机表，提前确定好装机的串口数量，整机数量以及是否有接网口的机器，会导致" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="2303" width="150" height="75" as="geometry" />
