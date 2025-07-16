@@ -574,8 +574,8 @@
         <mxCell id="xXmUPdc5YcS9Zif-ChsP-0" value="工厂版本转测是需要对策略的，策略调整后预估测试完成时间。" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1360" y="2475" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xXmUPdc5YcS9Zif-ChsP-3" value="务必确认主板和通讯板一起发起贴片，按照装机数量来定。确认有无长周期备料如:电池等一起发起" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1370" y="1750" width="150" height="80" as="geometry" />
+        <mxCell id="xXmUPdc5YcS9Zif-ChsP-3" value="务必需要提醒软件可以投入，开始demo版本的调试。不影响回PCBA后的联调进度" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1365" y="1840" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
