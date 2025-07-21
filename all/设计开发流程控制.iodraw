@@ -591,6 +591,9 @@
         <mxCell id="rE4arI236lnVrIqExRUa-16" value="单元测试版本出后需要确认是否需要固件烧录版本，有些是一起的，有些版本是可以升级，建议确认" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="2102" width="150" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="rE4arI236lnVrIqExRUa-17" value="&lt;div&gt;NPI找领导申请规格信息，再走流程建裸机料号，做BOM,再发起BOM上传系统&amp;nbsp;流程&lt;br&gt;&lt;/div&gt;BOM上传流程是，先建立裸机BOM ,与硬件确认无误后再进行BOM上产上系统，之后进行PCBA 的贴片。" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-90" y="2690" width="140" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
