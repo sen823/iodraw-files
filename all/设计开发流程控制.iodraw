@@ -562,7 +562,7 @@
           <mxGeometry x="-100" y="3167" width="140" height="63" as="geometry" />
         </mxCell>
         <mxCell id="rE4arI236lnVrIqExRUa-1" value="是否存在新的电池物料，需要走认证，20台至少" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1360" y="2070" width="150" height="80" as="geometry" />
+          <mxGeometry x="1360" y="2070" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rE4arI236lnVrIqExRUa-2" value="如果&amp;lt;10台，用户服务可以直接推，不需要审批&lt;br&gt;如果数量比较大，我们这来创建推送策略" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="3740" width="140" height="80" as="geometry" />
