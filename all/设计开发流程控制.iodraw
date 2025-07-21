@@ -582,7 +582,7 @@
           <mxGeometry x="-100" y="436" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rE4arI236lnVrIqExRUa-6" value="3D手板" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="404" y="1510" width="110" height="40" as="geometry" />
+          <mxGeometry x="404" y="1500" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rE4arI236lnVrIqExRUa-7" value="DXF输出" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="404" y="1640" width="110" height="40" as="geometry" />
