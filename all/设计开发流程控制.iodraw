@@ -585,8 +585,8 @@
         <mxCell id="rE4arI236lnVrIqExRUa-8" value="DMF" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="409" y="1580" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rE4arI236lnVrIqExRUa-15" value="看项目大小，结构堆叠这里一般会有两次或1次评审，需要拉通工厂经理NPI等，按照装配顺序，关注一下基本问题防水，点胶，装配度，信号干扰的程度全面的评价，放置后续出现开完会还存在不确定的情况导致返工" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-90" y="1240" width="140" height="165" as="geometry" />
+        <mxCell id="rE4arI236lnVrIqExRUa-15" value="一般这里时间较长5-8钟ID需要去选择" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="990" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
