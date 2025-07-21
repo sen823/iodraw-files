@@ -586,9 +586,6 @@
         <mxCell id="rE4arI236lnVrIqExRUa-3" value="需要找王工去确认对应的人员" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="436" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rE4arI236lnVrIqExRUa-4" value="人不全" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1360" y="682.5" width="140" height="95" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
