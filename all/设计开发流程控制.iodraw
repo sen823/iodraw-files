@@ -555,7 +555,7 @@
         <mxCell id="xXmUPdc5YcS9Zif-ChsP-3" value="务必需要提醒软件可以投入，开始demo版本的调试。不影响回PCBA后的联调进度" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1360" y="1840" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xXmUPdc5YcS9Zif-ChsP-4" value="需要3D手板验证，也要几天时间，然后跟供应商核对DFM,沟通问题最后发起投模3-4天时间" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="xXmUPdc5YcS9Zif-ChsP-4" value="需要3D手板验证，也要几天时间，然后跟供应商核对DFM,沟通问题最后发起投模3-4天时间，之后提供DXF文档3D-2D" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-100" y="1530" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rE4arI236lnVrIqExRUa-0" value="由产品经理发起，运营决定物料的数量。发起备料" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
